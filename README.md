@@ -36,9 +36,6 @@ This project focuses on analyzing movie data from IMDB using Power BI. The goal 
 2. Open the Power BI file (`.pbix`) to explore the dashboard.  
 3. If needed, modify the dataset and refresh the report.  
 
- 📸 **Screenshots**
-_(Insert dashboard screenshots here to showcase insights)_  
-
  📈 **Insights & Findings**
 - The most successful movie genres based on box office revenue.  
 - Trends in movie ratings over the years.  
